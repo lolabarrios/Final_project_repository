@@ -23,7 +23,6 @@ The repository is organised to support transparency, reproducibility, and inspec
 - `webgestalt_results/`: Functional enrichment tables for each MCL cluster.
 - `cytoscape_session.cys`: Cytoscape session file containing the network and clustering layout.
 - `thesis_outputs/`: All figures and tables produced during the project
-- `annex/`: Supplementary materials and extended tables intended for the thesis annex.
 
 ## Reproducibility
 
