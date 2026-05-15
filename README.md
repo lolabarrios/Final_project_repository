@@ -18,7 +18,7 @@ The workflow was developed to analyse paired tumour and adjacent normal pancreat
 
 The repository is organised to support transparency, reproducibility, and inspection of the full analytical pipeline.
 
-- `proyecto_TFG_final_v8.ipynb`: Main Jupyter notebook containing the complete analysis workflow.
+- `proyecto_TFG_final_v9.ipynb`: Main Jupyter notebook containing the complete analysis workflow.
 - `analisis_limma.R`: R script used for the limma-based differential expression analysis.
 - `webgestalt_results/`: Functional enrichment tables for each MCL cluster.
 - `cytoscape_session.cys`: Cytoscape session file containing the network and clustering layout.
