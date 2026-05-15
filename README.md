@@ -22,6 +22,7 @@ The repository is organised to support transparency, reproducibility, and inspec
 - `analisis_limma.R`: R script used for the limma-based differential expression analysis.
 - `webgestalt_results/`: Functional enrichment tables for each MCL cluster.
 - `cytoscape_session.cys`: Cytoscape session file containing the network and clustering layout.
+- `node_table` and `edge_table`: coming from the resulting filtered cluster network.
 - `thesis_outputs/`: All figures and tables produced during the project
 
 ## Reproducibility
